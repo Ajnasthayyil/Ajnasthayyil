@@ -30,7 +30,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br>SQL Server</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/><br>Postman</td>
-    <td align="center" width="100"><img src="./Swagger logo.png" width="50" alt="Swagger"/><br>Swagger</td>
+    <td align="center" width="100"><img src="./Swagger Logo.png" width="50" alt="Swagger"/><br>Swagger</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
