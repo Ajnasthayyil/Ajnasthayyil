@@ -36,8 +36,9 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/entityframework/entityframework-icon.svg" width="50" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="ADO.NET"/><br>ADO.NET</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" alt="Git"/><br>Git</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" alt="GitHub"/><br>GitHub</td>
+    
   </tr>
 </table>
 
