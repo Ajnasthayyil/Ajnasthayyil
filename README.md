@@ -36,8 +36,11 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/entityframework/entityframework-icon.svg" width="50" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="ADO.NET"/><br>ADO.NET</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="Git"/><br>Git</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" alt="REST API"/><br>REST API</td>
+
+    
     
   </tr>
 </table>
@@ -57,7 +60,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular Material"/><br>Angular Material</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" alt="npm"/><br>npm</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" alt="REST API"/><br>REST API</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/jwt/jwt-icon.svg" width="50" alt="JWT"/><br>JWT</td>
+    <td align="center" width="100"><img src="http://jwt.io/img/icon.svg" width="50" alt="JWT"/><br>JWT</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" width="50" alt="Visual Studio"/><br>VS Code</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="Visual Studio Code"/><br>Dev Tools</td>
   </tr>
