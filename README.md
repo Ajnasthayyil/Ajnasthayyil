@@ -1,5 +1,4 @@
-# Hi 👋, 
-I'm Ajnas Thayyil
+# Hi 👋, I'm Ajnas Thayyil
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
