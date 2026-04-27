@@ -1,4 +1,5 @@
-# Hi 👋, I'm Ajnas Thayyil
+# Hi 👋, 
+I'm Ajnas Thayyil
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
@@ -25,7 +26,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt=".NET Core"/><br>.NET Core</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="ASP.NET Core"/><br>ASP.NET Core</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" alt="C#"/><br>C#</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br>SQL Server</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br>PostgreSQL</td>
@@ -33,12 +34,11 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/swagger_io/swagger_io-icon.svg" width="50" alt="Swagger"/><br>Swagger</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="ASP.NET Core"/><br>ASP.NET Core</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/entityframework/entityframework-icon.svg" width="50" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="ADO.NET"/><br>ADO.NET</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="Git"/><br>Git</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" alt="GitHub"/><br>GitHub</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/><br>Docker</td>
   </tr>
 </table>
 
