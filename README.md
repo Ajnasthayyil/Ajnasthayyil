@@ -30,12 +30,12 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/><br>SQL Server</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/><br>Postman</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/swagger_io/swagger_io-icon.svg" width="50" alt="Swagger"/><br>Swagger</td>
+    <td align="center" width="100"><img src="./Swagger logo.png" width="50" alt="Swagger"/><br>Swagger</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/entityframework/entityframework-icon.svg" width="50" alt="Entity Framework"/><br>Entity Framework</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="ADO.NET"/><br>ADO.NET</td>
+    <td align="center" width="100"><img src="./EF.webp" width="50" alt="Entity Framework"/><br>Entity Framework</td>
+    <td align="center" width="100"><img src="Ado.Net.webp" width="50" alt="ADO.NET"/><br>ADO.NET</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" alt="GitHub"/><br>GitHub</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" alt="REST API"/><br>REST API</td>
@@ -61,8 +61,7 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" alt="npm"/><br>npm</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" alt="REST API"/><br>REST API</td>
     <td align="center" width="100"><img src="http://jwt.io/img/icon.svg" width="50" alt="JWT"/><br>JWT</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" width="50" alt="Visual Studio"/><br>VS Code</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="Visual Studio Code"/><br>Dev Tools</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="Visual Studio"/><br>VS Code</td>
   </tr>
 </table>
 
