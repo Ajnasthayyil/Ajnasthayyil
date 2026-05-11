@@ -110,12 +110,6 @@
     alt="GitHub Streak"
   />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnasthayyil&layout=compact&theme=gotham&hide_border=true&cache_seconds=1800"
-    width="48%"
-    alt="Top Languages"
-  />
 </p>
 
 ### 🚀 Featured Projects
