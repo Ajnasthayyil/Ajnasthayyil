@@ -87,22 +87,43 @@
 ### 📊 GitHub and LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://leetcard.jacoblin.cool/Ajnasthayyil?theme=dark&font=ABeeZee" width="48%" alt="LeetCode Stats"/>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham&hide_border=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <!-- LeetCode Stats -->
+  <img
+    src="https://leetcard.jacoblin.cool/Ajnasthayyil?theme=dark&font=ABeeZee"
+    width="48%"
+    alt="LeetCode Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnasthayyil&theme=gotham&hide_border=true" width="48%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnasthayyil&layout=compact&theme=gotham&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnasthayyil&theme=gotham&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
+  />
 
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnasthayyil&layout=compact&theme=gotham&hide_border=true"
+    width="48%"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **SmartJobPortal** | AI-powered job platform with resume parsing & skill gap analysis | C#, ASP.NET Core, AI/ML |
+| **SmartJobPortal** | AI-powered job platform with resume parsing & skill gap analysis | C#, ASP.NET Core, SQL Server, Dapper |
 | **Shoex Ecommerce** | Full-stack ecommerce platform with clean architecture | C#, ASP.NET Core, Angular, SQL Server |
 | **Underwater Trash Detection** | Deep learning model for detecting underwater debris | Python, Deep Learning, Computer Vision |
 | **LeetCode Solutions** | Curated problem-solving practice | JavaScript, Algorithms |
