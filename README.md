@@ -89,7 +89,7 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800](https://github-readme-stats-sigma-five.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham"
     width="48%"
     alt="GitHub Stats"
   />
