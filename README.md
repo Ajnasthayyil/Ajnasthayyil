@@ -1,30 +1,32 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ajnas%20Thayyil&fontSize=52&color=0:0f0c29,50:302b63,100:24243e&fontColor=00f5d4&stroke=00f5d4&strokeWidth=1.5&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer%20%E2%80%A2%20Angular%20Developer&descSize=18&descAlignY=75&descFontColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ajnas%20Thayyil&fontSize=52&color=0:0f0c29,50:302b63,100:24243e&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1.5&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer%20%E2%80%A2%20Angular%20Developer&descSize=18&descAlignY=75&descFontColor=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications+🚀;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary)](https://git.io/typing-svg)
+
+<div align="center">
+
+<h4>
+<span style="color:#ff3333;">
+Full Stack .NET Developer 💻
+</span>
+<span style="color:#ffffff;">
+| MSc. Computer Science | C# | ASP.NET Core | SQL Server | ADO.NET | EF Core | Dapper | RESTful API | Angular | JavaScript | TypeScript | Clean Architecture • CQRS • MediatR | SignalR
+</span>
+</h4>
+
+</div>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💻 Full Stack .NET Developer  
-### 🌐 Angular Developer  
-### 🏗️ Clean Architecture • CQRS • MediatR  
-### 🗄️ SQL Server • Entity Framework Core • Dapper  
-### ☁️ Cloudinary • Redis • GitHub Actions  
-
-</div>
 
 
-# Hi 👋, I'm Ajnas Thayyil
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
