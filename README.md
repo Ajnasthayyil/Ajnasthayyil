@@ -12,6 +12,14 @@
   alt="Typing SVG"
 />
 
+
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
+</p>
+
 <div align="center">
 
 <h4>
@@ -26,14 +34,7 @@ Full Stack .NET Developer 💻
 </div>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
-</p>
-
-### Full-Stack .NET Developer | MSc Computer Science
+<br>
 
 - 🚀 Passionate about building **scalable web applications** using modern technologies<br>
 - 💻 Full-stack developer crafting robust **ASP.NET Core** backends and responsive **Angular** frontends<br>
