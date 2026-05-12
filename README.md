@@ -6,7 +6,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary)](https://git.io/typing-svg)
+<!-- Removed hyperlink wrapper to eliminate underline -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary"
+  alt="Typing SVG"
+/>
 
 <div align="center">
 
@@ -24,9 +28,6 @@ Full Stack .NET Developer 💻
 </div>
 
 ---
-
-
-
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
