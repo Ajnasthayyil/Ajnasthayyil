@@ -1,37 +1,42 @@
+<!-- ===================== HERO SECTION (COMPACT) ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ajnas%20Thayyil&fontSize=52&color=0:0f0c29,50:302b63,100:24243e&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1.5&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer%20%E2%80%A2%20Angular%20Developer&descSize=18&descAlignY=75&descFontColor=FFFFFF"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=170&text=Ajnas%20Thayyil&fontSize=48&fontAlignY=38&color=0:0b0f1a,50:121a2b,100:1b2438&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1.2&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer%20%E2%80%A2%20Angular%20Developer&descSize=16&descAlignY=68&descFontColor=FFFFFF"
+/>
 
 </div>
 
+<!-- ===================== TYPING ANIMATION (NO UNDERLINE) ===================== -->
 <div align="center">
 
-<!-- Removed hyperlink wrapper to eliminate underline -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Clean+Architecture+%2B+CQRS+Enthusiast;ASP.NET+Core+%2B+Angular+Full+Stack+Developer;Entity+Framework+Core+%2B+Dapper;RESTful+APIs+with+JWT+Authentication;SQL+Server+%2B+Redis+%2B+Cloudinary"
   alt="Typing SVG"
 />
 
+</div>
 
-
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
+<!-- ===================== CAT GIF ===================== -->
+<p align="center" style="margin-top: 10px; margin-bottom: 10px;">
+  <img
+    src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif"
+    alt="Typing Cat"
+    width="360"
+  />
 </p>
 
+<!-- ===================== PROFESSIONAL HEADLINE ===================== -->
 <div align="center">
 
-<h4>
+<h5>
 <span style="color:#ff3333;">
 Full Stack .NET Developer 💻
 </span>
 <span style="color:#ffffff;">
 | MSc. Computer Science | C# | ASP.NET Core | SQL Server | ADO.NET | EF Core | Dapper | RESTful API | Angular | JavaScript | TypeScript | Clean Architecture • CQRS • MediatR | SignalR
 </span>
-</h4>
-
-</div>
+</h5>
 
 </div>
 <br>
