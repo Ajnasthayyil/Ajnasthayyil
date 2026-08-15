@@ -1,3 +1,4 @@
+<!-- <h3>Hi 👋, I'm Ajnas Thayyil</h3> -->
 <!-- ===================== HERO SECTION (COMPACT) ===================== -->
 <div align="center">
 
@@ -43,7 +44,7 @@ Full Stack .NET Developer 💻
 
 - 🚀 Passionate about building **scalable web applications** using modern technologies<br>
 - 💻 Full-stack developer crafting robust **ASP.NET Core** backends and responsive **Angular** frontends<br>
-- 🏢 Currently **Software Engineer** at **Bridgeon Solution**, Kerala<br>
+- 🏢 Currently **Full Stack Developer** at **Transwarranty Finance**, Kerala<br>
 - 🌍 2+ years of professional experience in **Frontend Development** (UAE) + Full-stack development<br>
 - 🤖 Built an **Underwater Trash Detection** system using Deep Learning<br>
 - 📫 Interested in opportunities or just want to chat about code? Reach out:
@@ -66,17 +67,16 @@ Full Stack .NET Developer 💻
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/><br>Postman</td>
     <td align="center" width="100"><img src="./Swagger Logo.png" width="50" alt="Swagger"/><br>Swagger</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt="Dapper"/><br>Dapper</td>
     <td align="center" width="100"><img src="./EF.webp" width="50" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="100"><img src="Ado.Net.webp" width="50" alt="ADO.NET"/><br>ADO.NET</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" alt="GitHub"/><br>GitHub</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" alt="REST API"/><br>REST API</td>
-
-    
-    
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" alt="REST API"/><br>REST API</td> 
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" alt="Redis"/  <br>Redis</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/><br>Docker</td>
   </tr>
 </table>
 
@@ -90,9 +90,9 @@ Full Stack .NET Developer 💻
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/><br>HTML5</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/><br>CSS3</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/><br>Tailwind CSS</td>
-  </tr>
-  <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular Material"/><br>Angular Material</td>
+     </tr>
+  <tr>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" alt="npm"/><br>npm</td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" alt="REST API"/><br>REST API</td>
     <td align="center" width="100"><img src="http://jwt.io/img/icon.svg" width="50" alt="JWT"/><br>JWT</td>
@@ -100,13 +100,25 @@ Full Stack .NET Developer 💻
   </tr>
 </table>
 
+
+-----
+
+**Advanced Concepts:**
+- 🏗️ **Clean Architecture** | CQRS | MediatR | Repository Pattern
+- 🔐 **JWT Authentication** | Role-Based Access Control
+- 📊 **Database Optimization** | Query Performance | Stored Procedure
+- ☁️ **Cloud Services** | Cloudinary | AWS | Azure | Docker | CI/CD Pipelines
+- 🤖 **AI Integration** | Gemini AI | RAG Chatbots
+- 🔄 **Real-Time Features** | SignalR | WebSockets
+
 ---
 
 ### 💼 Experience at a Glance
 
 | Role | Company | Duration | Location | Focus |
 |------|---------|----------|----------|-------|
-| **Software Engineer** | Bridgeon Solution | Aug 2025 - Present | Kerala, India | Full-Stack .NET Development |
+| **Full Stack Developer** | Transwarranty Finance | July 2026 - Present | Kerala, India | Banking CRM & ERP software | Clean Architecture |
+| **Software Engineer** | Bridgeon Solution | Aug 2025 - July 2026 | Kerala, India | Full-Stack .NET Development |
 | **Frontend Developer** | Rawabi Al Ain Services | Jan 2023 - June 2025 | Abu Dhabi, UAE | Angular, Responsive UI |
 
 ---
@@ -123,11 +135,11 @@ Full Stack .NET Developer 💻
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800](https://github-readme-stats-sigma-five.vercel.app/api?username=Ajnasthayyil&show_icons=true&theme=gotham"
     width="48%"
     alt="GitHub Stats"
-  />
+  /> -->
 
   <!-- LeetCode Stats -->
   <img
@@ -137,7 +149,7 @@ Full Stack .NET Developer 💻
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- GitHub Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnasthayyil&theme=gotham&hide_border=true"
@@ -151,6 +163,8 @@ Full Stack .NET Developer 💻
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
+| **CodeClash** | Real-time competitive coding platform with ELO matchmaking, Monaco Editor, live battles| ASP.NET Core, Angular, Node.js, Docker, SignalR, Gemini AI |
+| **TaLex** | AI-powered recruitment platform with resume parsing & talent matching | ASP.NET Core, Angular, SQL Server, Redis, Gemini AI, SignalR |
 | **SmartJobPortal** | AI-powered job platform with resume parsing & skill gap analysis | C#, ASP.NET Core, SQL Server, Dapper |
 | **Shoex Ecommerce** | Full-stack ecommerce platform with clean architecture | C#, ASP.NET Core, Angular, SQL Server |
 | **Underwater Trash Detection** | Deep learning model for detecting underwater debris | Python, Deep Learning, Computer Vision |
