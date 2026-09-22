@@ -47,9 +47,7 @@ Full Stack .NET Developer 💻
 -  Currently **Full Stack Developer** at **Transwarranty Finance**, Kerala<br>
 -  2+ years of professional experience in **Frontend Development** (UAE) + Full-stack development<br>
 -  Built an **Underwater Trash Detection** system using Deep Learning<br>
--  Interested in opportunities or just want to chat about code? Reach out:
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajnasthayyil123@gmail.com" target="_blank">
-    ajnasthayyil123@gmail.com
+-  Interested in opportunities or just want to chat about code? Reach out:<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajnasthayyil123@gmail.com" target="_blank"> ajnasthayyil123@gmail.com
   </a><br>
 -  Fun fact: When I'm not coding, I'm either debugging, learning new tech, or pretending to be productive!! 😄<br>
 
